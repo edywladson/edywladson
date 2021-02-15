@@ -1,6 +1,6 @@
 <h1 align="center">Fala galera 👋, Eu sou o Edy Wladson</h1>
 <h3 align="center">Um Desenvolvedor Back End Junior</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edywladson" alt="maykbrito" /> </p>
 
 - 🔭 Estou trabalhando na [Vista Soft](https://www.vistasoft.com.br)
 
