@@ -13,7 +13,7 @@ Como disse acima, eu sou o Edy Wladson, mas pode me chamar de Edy ou Wladson. So
 
 <img src="https://img.shields.io/static/v1?label=&message=laravel&fontColor=black&color=e3382b&style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=vue.js&fontColor=black&color=35495e&style=for-the-badge&logo=vue.js"/> <img src="https://img.shields.io/static/v1?label=&message=angular&fontColor=black&color=d2002f&style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=typescript&fontColor=black&color=0077b5&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=docker&fontColor=black&color=2ca5e0&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=markdown&fontColor=black&color=000000&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=java&fontColor=black&color=dc2c2d&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=postgresql&fontColor=black&color=2f5b8b&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=npm&fontColor=black&color=bf3535&style=for-the-badge&logo=npm&logoColor=white"/> 
 
-## 📊 Minhas estatisticas 
+## 📊 Minhas estatísticas 
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=edywladson&show_icons=true&hide=issues&theme=radical" alt="edywladson"/>
