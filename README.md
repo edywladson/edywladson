@@ -1,9 +1,9 @@
-# 🖖🏻 Oi! Eu sou o Edy Wladson! 😉
+# 🖖🏻 Oi! Eu sou o Edy! 😉
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=edywladson" alt="edywladson" /> 
 </p>
 
-Oi, eu sou o Edy Wladson, mas pode me chamar de Edy ou Wladson. Sou apaixonado pelo desenvolvimento web, amo me desafiar e aprender algo novo. Sou formado em Análise e Desenvolvimento de Sistemas e trabalhando como Software Engineer na [Loft](https://loft.com.br/). 
+Formado em Análise e Desenvolvimento de Sistemas e trabalhando como Software Engineer na [Loft](https://loft.com.br/). 
 
 ## 🧐 Tecnologias de desenvolvimento que mais domino
 
