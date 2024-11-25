@@ -13,13 +13,7 @@ Formado em Análise e Desenvolvimento de Sistemas e trabalhando como Software En
 
 <img src="https://img.shields.io/static/v1?label=&message=laravel&fontColor=black&color=e3382b&style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=vue.js&fontColor=black&color=35495e&style=for-the-badge&logo=vue.js"/> <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/static/v1?label=&message=typescript&fontColor=black&color=0077b5&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="[https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)"/> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=docker&fontColor=black&color=2ca5e0&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=markdown&fontColor=black&color=000000&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=postgresql&fontColor=black&color=2f5b8b&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=npm&fontColor=black&color=bf3535&style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/> 
 
-<!-- ## 📊 Minhas estatísticas 
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=edywladson&show_icons=true&hide=issues&theme=radical" alt="edywladson"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edywladson&layout=compact&theme=radical" alt="edywladson"/>
-</p> -->
 
 ## 👇🏻 Quer me encontrar? Estou aqui
 
-[<img src="https://img.shields.io/static/v1?label=&message=gmail&fontColor=black&color=de4032&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:edywladson@gmail.com) [<img src="https://img.shields.io/static/v1?label=&message=linkedin&fontColor=black&color=0077b5&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/edywladson/)
+[<img src="https://img.shields.io/static/v1?label=&message=linkedin&fontColor=black&color=0077b5&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/edywladson/)
